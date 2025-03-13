@@ -10,11 +10,6 @@ namespace WebApplication2.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
             return View();
@@ -37,11 +32,13 @@ namespace WebApplication2.Controllers
             if (statusCode == 404)
             {
                 errorModel.ErrorMessage = "Страница не найдена.";
+                _logger.LogWarning("HomeController: Обнаружена ошибка 404.");
             }
             else
             {
                 var exceptionHandlerPathFeature = HttpContext.Features.Get<IExceptionHandlerPathFeature>();
                 errorModel.ErrorMessage = exceptionHandlerPathFeature?.Error.Message ?? "Произошла ошибка.";
+                _logger.LogError("HomeController: Произошло исключение - {ErrorMessage}", errorModel.ErrorMessage);
             }
 
             return View(errorModel);
