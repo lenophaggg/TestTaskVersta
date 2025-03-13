@@ -14,9 +14,25 @@
 ---
 
 ## Технологический стек
-- **Backend**: ASP.NET 9 + EF
-- **Frontend**: ASP.NET MVC
-- **База данных**: PostgreSQL
+
+### Backend:
+- **ASP.NET 9**
+- **Entity Framework (EF)**
+
+### Frontend:
+- **ASP.NET MVC**
+- **Razor Pages**
+- **Bootstrap 5** (для стилизации)
+
+### База данных:
+- **PostgreSQL**
+- **EF Migrations** (для управления схемой БД)
+
+### Дополнительные технологии:
+- **jQuery** (для клиентских скриптов)
+- **Data Annotations** (для валидации моделей)
+- **Serilog** (для логирования)
+
 ---
 
 ## Запуск проекта
