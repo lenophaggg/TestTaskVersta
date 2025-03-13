@@ -1,0 +1,56 @@
+﻿@model WebApplication2.ViewModels.OrderViewModel
+
+@{
+    ViewData["Title"] = "Создание нового заказа";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group mt-1">
+        <label asp-for="Sendercity" class="control-label">Город отправителя</label>
+        <input asp-for="Sendercity" class="form-control" />
+        <span asp-validation-for="Sendercity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-1">
+        <label asp-for="Senderaddress" class="control-label">Адрес отправителя</label>
+        <input asp-for="Senderaddress" class="form-control" />
+        <span asp-validation-for="Senderaddress" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-1">
+        <label asp-for="Recipientcity" class="control-label">Город получателя</label>
+        <input asp-for="Recipientcity" class="form-control" />
+        <span asp-validation-for="Recipientcity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-1">
+        <label asp-for="Recipientaddress" class="control-label">Адрес получателя</label>
+        <input asp-for="Recipientaddress" class="form-control" />
+        <span asp-validation-for="Recipientaddress" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-1">
+        <label asp-for="Cargoweight" class="control-label">Вес груза (кг)</label>
+        <input asp-for="Cargoweight" class="form-control" type="number" step="0.01" required />
+        <span asp-validation-for="Cargoweight" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-1">
+        <label asp-for="Pickupdate" class="control-label">Дата забора</label>
+        <input asp-for="Pickupdate" class="form-control" type="date" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+        <span asp-validation-for="Pickupdate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <a asp-action="List" class="btn btn-secondary">Назад к списку</a>
+        <button type="submit" class="btn btn-primary">Создать</button>
+    </div>
+</form>
+
+<script>
+    $(document).ready(function () {
+        $("input[name='Cargoweight']").mask("99999.99", { reverse: true });
+    });
+</script>

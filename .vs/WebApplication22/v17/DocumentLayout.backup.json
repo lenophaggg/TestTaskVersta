@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\views\\orders\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\orders\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\services\\ordernumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\ordernumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\services\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\desktop\\papka\\webapplication22\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA896F02-326C-4962-9F40-0F497B00737B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApplication2\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-12T13:30:59.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Services\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Services\\DatabaseSeeder.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:32:24.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:00:28.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T21:26:33.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:11:55.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Services\\OrderNumberGenerator.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\OrderNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Services\\OrderNumberGenerator.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\OrderNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:00:35.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:48:22.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T14:46:54.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T13:10:11.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T12:52:19.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:46:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:09:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Orders\\Details.cshtml*",
+              "RelativeToolTip": "WebApplication2\\Views\\Orders\\Details.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T12:09:56.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Orders\\List.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Orders\\List.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\Views\\Orders\\List.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Orders\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T12:09:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\papka\\WebApplication22\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T13:26:43.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
